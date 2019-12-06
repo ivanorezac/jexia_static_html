@@ -1,0 +1,22 @@
+{
+  "name": "static_html",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "http-server . -p 8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanorezac/jexia_static_html.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivanorezac/jexia_static_html/issues"
+  },
+  "homepage": "https://github.com/ivanorezac/jexia_static_html#readme",
+  "dependencies": {
+    "http-server": "^0.12.0"
+  }
+}
